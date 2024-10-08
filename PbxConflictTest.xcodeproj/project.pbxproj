@@ -51,6 +51,7 @@
 		3557463A2CB4CCE000FB726E /* PbxConflictTest */ = {
 			isa = PBXGroup;
 			children = (
+				355746492CB4D1BE00FB726E /* Bran */,
 				3557463B2CB4CCE000FB726E /* PbxConflictTestApp.swift */,
 				3557463D2CB4CCE000FB726E /* ContentView.swift */,
 				3557463F2CB4CCE000FB726E /* Assets.xcassets */,
@@ -65,6 +66,13 @@
 				355746422CB4CCE000FB726E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		355746492CB4D1BE00FB726E /* Bran */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
